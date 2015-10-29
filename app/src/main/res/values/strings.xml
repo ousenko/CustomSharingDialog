@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomSharingDialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="no_app_found">No application to handle that kind of intent</string>
+    <string name="subject">Mail subject to replace</string>
+    <string name="htmlText"><![CDATA[Hi @username,<br><br>let me invite you to use some <a href=\"http://goo.gl/u3b62t\">cool app</a>!]]></string>
+    <string name="messenger_message">Hello! I am usin some cool app. Join me http://goo.gl/u3b62t</string>
+</resources>
